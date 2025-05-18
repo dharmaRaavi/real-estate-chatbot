@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "Luxury Downtown Apartment",
+        "price": 750000,
+        "location": "123 Main St, Downtown",
+        "image": "luxary-appartment.png",
+        "description": "Spacious 3-bedroom apartment with stunning city views and modern amenities.",
+        "owner_email": "dharmaprabash30@gmail.com",
+        "owner_name": "John Smith"
+    },
+    {
+        "id": 2,
+        "name": "Suburban Family Home",
+        "price": 450000,
+        "location": "456 Oak Ave, Suburbia",
+        "image": "family-home.jpeg",
+        "description": "Beautiful 4-bedroom home with large backyard and excellent school district.",
+        "owner_email": "dharmaprabash30@gmail.com",
+        "owner_name": "Sarah Johnson"
+    }
+]
