@@ -2,6 +2,6 @@ services:
   - type: web
     name: real-estate-chatbot
     runtime: python
-    buildCommand: "pip install -r requirements.txt"
-    startCommand: "gunicorn app:app"
+    Build Command: poetry install --no-dev
+    Start Command: poetry run gunicorn app:app
     env: python
